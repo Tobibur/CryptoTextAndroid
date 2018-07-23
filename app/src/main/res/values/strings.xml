@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoTextAndroidExample</string>
+    <string name="encrypt">Encrypt</string>
+</resources>
